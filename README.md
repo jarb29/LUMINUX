@@ -1,2 +1,4 @@
 # LUMINUX
-Please click on 
+Please click on (luminux-challenge.ipynb) file.
+
+Thanks....
